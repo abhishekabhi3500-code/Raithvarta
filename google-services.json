@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401315540126",
+    "project_id": "raithavarta-6932b",
+    "storage_bucket": "raithavarta-6932b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401315540126:android:25bcc0beace87e43d21f8f",
+        "android_client_info": {
+          "package_name": "com.example.raithavarta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQiqVwnB1KGpyjECVm7TnhYXf3isZy1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
